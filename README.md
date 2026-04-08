@@ -6,6 +6,4 @@ Apple Academy Developer KR
 
 <https://developer.apple.com/tutorials/develop-in-swift>
 
----
-
 계속 업데이트 예정 👀
