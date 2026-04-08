@@ -1,10 +1,10 @@
-### Swift Study: 스스
+## Swift Study: 스스
 
 ### Develop in Swift Tutorials
 
 Apple Academy Developer KR
 
-### Study Resource
+* Study Resource
 
 <https://developer.apple.com/tutorials/develop-in-swift>
 
