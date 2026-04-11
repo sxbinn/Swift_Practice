@@ -1,6 +1,6 @@
 ## Swift Study: 스스
 
-Apple Academy Developer KR
+Apple Academy Developer @ POSTECH
 
 ### Develop in Swift Tutorials (Study Resource)
 
